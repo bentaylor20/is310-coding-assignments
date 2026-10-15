@@ -1,0 +1,58 @@
+[
+    {
+        "first_name": "Fernando",
+        "last_name": "Mendoza",
+        "position": "Quarterback",
+        "school": "Indiana University",
+        "year": 2025,
+        "touchdowns": 39
+    },
+    {
+        "first_name": "Travs",
+        "last_name": "Hunter",
+        "position": "Wide Reciever / Corner Back",
+        "school": "University of Colorado",
+        "year": 2024,
+        "touchdowns": 14
+    },
+    {
+        "first_name": "Marcus",
+        "last_name": "Mariota",
+        "position": "Quarterback",
+        "school": "University of Oregon",
+        "year": 2014,
+        "touchdowns": 52
+    },
+    {
+        "first_name": "Derrick",
+        "last_name": "Henry",
+        "position": "Runningback",
+        "school": "University of Alabama",
+        "year": 2015,
+        "touchdowns": 28
+    },
+    {
+        "first_name": "Lamar",
+        "last_name": "Jackson",
+        "position": "Quarterback",
+        "school": "Louisville University",
+        "year": 2016,
+        "touchdowns": 51
+    },
+    {
+        "first_name": "Baker",
+        "last_name": "Mayfield",
+        "position": "Quarterback",
+        "school": "Oklahoma University",
+        "year": 2017,
+        "touchdowns": 46
+    },
+    {
+        "first_name": "Kyler",
+        "last_name": "Murray",
+        "position": "Quarterback",
+        "school": "Oklahoma University",
+        "year": 2018,
+        "touchdowns": 51
+    }
+]

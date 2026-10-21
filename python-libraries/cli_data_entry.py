@@ -20,7 +20,7 @@ heisman = [
     {
         "first_name": "Travis",
         "last_name": "Hunter",
-        "position": "Wide Reciever / Corner Back",
+        "position": "Wide Receiver / Cornerback",
         "school": "University of Colorado",
         "year": 2024,
         "touchdowns": 14
@@ -87,9 +87,9 @@ for entry_number in range(5):
 
     if confirmed:
         heisman.append(new_winner)
-        console.print("Movie added.")
+        console.print("Winner added.")
     else:
-        console.print("This movie will not be saved.")
+        console.print("This winner will not be saved.")
 
 output_file.write_text(json.dumps(heisman, indent=4), encoding="utf-8")
 
